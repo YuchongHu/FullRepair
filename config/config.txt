@@ -1,0 +1,19 @@
+64 4
+
+config/addresses.txt
+config/bandwidths.txt
+
+20 10 40
+30 67108864
+
+config/algorithms.txt
+config/tasks.txt
+files/results.txt
+
+files/
+2 0
+-rfile.txt
+-wfile.txt
+
+1
+eth0

@@ -1,0 +1,19 @@
+67108864 32768
+
+config/addresses.txt
+config/bandwidth.txt
+
+6 3 10
+1024 32768
+
+config/algorithms.txt
+config/tasks.txt
+files/results.txt
+
+files/
+2 0
+-rfile.txt
+-wfile.txt
+
+1
+eth0
